@@ -56,3 +56,14 @@ You can check your [configuration](config/development.yaml) to pick either front
 ## Getting help
 
 Check out [a quick tour](https://loco.rs/docs/getting-started/tour/) or [the complete guide](https://loco.rs/docs/getting-started/guide/).
+
+
+# env info
+
+## rustup
+rustup 1.28.1 (f9edccde0 2025-03-05)
+info: This is the version for the rustup toolchain manager, not the rustc compiler.
+info: The currently active `rustc` version is `rustc 1.86.0 (05f9846f8 2025-03-31)`
+
+
+
